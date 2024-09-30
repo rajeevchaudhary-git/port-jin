@@ -17,7 +17,7 @@ function Header() {
         <div className="static-txt">I'm </div>
         <div>
             <ul className="dynamic-txt">
-                <li><span>Sakshi Jain</span></li>
+                <li><span>Jinn ji</span></li>
                 <li><span>Full Stack Developer</span></li>
             </ul >
                     <p className='text-lg -ml-64 mt-1' style={{textShadow: '1px 1px 8px wheat'}}>I'm Sakshi Jain, a Full Stack Developer with a degree from Maharshi Dayanand <br /> University, Rohtak. With a passion for clean  code and problem-solving,  I thrive in <br /> crafting seamless user experiences  and efficient backend solutions.</p>   
